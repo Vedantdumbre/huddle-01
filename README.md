@@ -10,7 +10,13 @@
 
 **Installation**
 
-Install the project dependencies using npm:
+1.Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+2.To run the project 
 
 ```bash
 npm install
